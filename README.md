@@ -16,5 +16,5 @@ https://drive.google.com/file/d/1wNnejsaz_JMqahX-SaN9CsfF1mFpjGAF/view?usp=shari
 Prototüübi kasutusjuhend:
  1) valige kalendril sobiv kuupäev (aastat ja kuud saab muuta väiksestele nooltele klõpsates)
  2) vajutage kalendris valitud kuupäeva peale
- 3) seejärel vajutage nuppu "loe"
+ 3) seejärel vajutage nuppu "Vaata"
  4) ekraani paremale poolele (sinisele osale) peaks ilmuma tekst (hetkeseisuga kas "ülesanded puuduvad" või meie ise lisatud ülesanded (13. oktoobrile 2022 on lisatud paar ülesannet))
