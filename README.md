@@ -8,3 +8,12 @@ https://drive.google.com/drive/folders/1rqQqpppmxpbW2AoVCR5csajPZFoSPean?usp=sha
 
 Trello:
 https://trello.com/invite/b/VcuNMJDh/07f60eb486d6f647d1fff7e93f25d9c4/snete
+
+paberprototüüp:
+
+
+Prototüübi kasutusjuhend:
+ 1) valige kalendril sobiv kuupäev (aastat ja kuud saab muuta väiksestele nooltele klõpsates)
+ 2) vajutage kalendris valitud kuupäeva peale
+ 3) seejärel vajutage nuppu "loe"
+ 4) ekraani paremale poolele (sinisele osale) peaks ilmuma tekst (hetkeseisuga kas "ülesanded puuduvad" või meie ise lisatud ülesanded (13. oktoobrile 2022 on lisatud paar ülesannet))
