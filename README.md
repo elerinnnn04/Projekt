@@ -10,6 +10,7 @@ Trello:
 https://trello.com/invite/b/VcuNMJDh/07f60eb486d6f647d1fff7e93f25d9c4/snete
 
 paberprototüüp:
+https://drive.google.com/file/d/1wNnejsaz_JMqahX-SaN9CsfF1mFpjGAF/view?usp=sharing
 
 
 Prototüübi kasutusjuhend:
